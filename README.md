@@ -49,5 +49,5 @@ Contributions are welcome! Please open an issue or submit a pull request if you�
 
 ## License
 
-This project is licensed under the terms of the [MIT License](LICENSE).
-Copyright © 2022 **Devi Divya Sri Perni**
+This project is licensed under the terms of the [MIT license](LICENSE).
+Copyright © rights are reserved, made with :heart: DeviDivyaSri Perni.
